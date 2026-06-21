@@ -1,6 +1,6 @@
 # Inside your Git repository: cart-service.yml
 server:
-  port: 8090
+  port: 8088
 
 eureka:
   client:

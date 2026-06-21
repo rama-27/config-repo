@@ -1,0 +1,8 @@
+# Inside your Git repository: cart-service.yml
+server:
+  port: 8090
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
